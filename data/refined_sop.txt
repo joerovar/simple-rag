@@ -1,0 +1,21 @@
+
+TECHNIQUE 1: SPREAD OR CLOSE INTERVAL
+Hold Back
+When there has been a delay to service, and there is a long interval between trains, divide the length of the delay among as many trains as possible by holding back runs ahead of the delay.
+
+Example:
+A train with a three-minute interval is delayed three minutes:
+1. Hold the first train one minute longer than schedule, giving that run a four-minute rather than a three-minute interval.
+2. Hold the second train two minutes longer than schedule, giving that run a four minute rather than a three-minute interval.
+3. Hold the third train three minutes longer than schedule, giving that run a four minute rather than a three-minute interval.
+4. The delayed train now has a normal three-minute interval although still three minutes behind schedule.
+
+Advantages:
+- Restores scheduled service during relatively short delays; a simple and effective technique.
+- Causes little inconvenience to customers.
+
+Considerations:
+- This technique can be used only when the delay is coming toward you.
+- The spread interval should not exceed recovery time.
+- The interval must not be spread so drastically that all trains will be overcrowded.
+- The Transportation Manager, Rail Controller and other supervisors, both ahead of and behind the delay, must be notified when spreading the interval and when the normal schedule is resumed.
